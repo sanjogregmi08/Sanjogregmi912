@@ -93,7 +93,7 @@ Currently expanding my knowledge in system design and architecture to build more
   
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjogregmi08&show_icons=true&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjogregmi08&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
