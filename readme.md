@@ -1,8 +1,8 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Sanjog Regmi👋
 
-## 🚀 Backend Developer | System Architecture Enthusiast
+## 🐍 Python Backend Developer
 
-> Building scalable solutions and architecting robust systems
+> Building robust and scalable backend solutions with Python
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
@@ -12,90 +12,78 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate backend developer with a strong foundation in server-side technologies and databases. Currently diving deep into **System Architecture** to design and build more scalable, maintainable, and efficient systems.
+I'm a passionate Python backend developer focused on creating efficient, maintainable, and scalable server-side applications. I enjoy working with APIs, databases, and building systems that can handle real-world challenges.
 
-- 🔭 I'm currently working on microservices and distributed systems
-- 🌱 I'm learning system design patterns, load balancing, and cloud architecture
-- 💡 I love solving complex problems and optimizing system performance
-- 📚 Always eager to learn new technologies and best practices
-- 🎯 Goal: Becoming a solutions architect
+- 🔭 I'm currently working on Python web applications and APIs
+- 🌱 I'm learning **System Architecture** to design better scalable systems
+- 💡 I love solving complex backend problems and optimizing performance
+- 🐍 Python enthusiast with a focus on clean, readable code
+- 📚 Always exploring new Python libraries and frameworks
 
 ---
 
 ## 🛠️ Tech Stack
 
-### **Languages**
+### **Core**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-
-### **Frameworks & Libraries**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
 ### **Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 
-### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+### **Tools & Libraries**
+![Celery](https://img.shields.io/badge/Celery-37B24D?style=flat&logo=celery&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+
+### **Cloud & Deployment**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-### **Tools & Others**
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
----
-
-## 📚 Currently Learning System Architecture
-
-### 🎯 **Focus Areas**
-- **Design Patterns**: Microservices, Event-Driven Architecture, CQRS
-- **Scalability**: Load balancing, horizontal scaling, database sharding
-- **Reliability**: Circuit breakers, retry mechanisms, fault tolerance
-- **Performance**: Caching strategies, database optimization, CDNs
-- **Security**: Authentication, authorization, data encryption
-- **Monitoring**: Logging, metrics, distributed tracing
-
-### 📖 **Learning Resources**
-- System Design Interview books by Alex Xu
-- Building Microservices by Sam Newman
-- Designing Data-Intensive Applications by Martin Kleppmann
-- AWS Solutions Architect certification path
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
 ## 🏗️ Featured Projects
 
-### 🚀 **E-Commerce Microservices Platform**
-A scalable e-commerce platform built with microservices architecture
-- **Tech Stack**: Node.js, MongoDB, Redis, Docker, AWS
-- **Features**: User service, Product catalog, Order management, Payment processing
-- **Architecture**: API Gateway, Service discovery, Event-driven communication
-- [Repository](link-to-repo) | [Live Demo](link-to-demo)
+### 🚀 **RESTful API with Django REST Framework**
+A comprehensive API for a task management application
+- **Tech Stack**: Django, DRF, PostgreSQL, Redis, Celery
+- **Features**: User authentication, CRUD operations, Background tasks, Caching
+- **Testing**: 95% test coverage with pytest
+- [Repository](link-to-repo) | [API Documentation](link-to-docs)
 
-### 📊 **Real-Time Analytics API**
-High-performance API for processing and analyzing large datasets
-- **Tech Stack**: Python, FastAPI, PostgreSQL, Redis
-- **Features**: Real-time data processing, WebSocket connections, Caching layer
-- **Performance**: Handles 10K+ requests per second
+### ⚡ **High-Performance FastAPI Service**
+A fast and efficient API service for data processing
+- **Tech Stack**: FastAPI, SQLAlchemy, PostgreSQL, Docker
+- **Features**: Async operations, Data validation with Pydantic, Auto-generated docs
+- **Performance**: Sub-100ms response times
 - [Repository](link-to-repo)
 
-### 🔐 **Authentication Microservice**
-Centralized authentication service with JWT and OAuth2 support
-- **Tech Stack**: Java, Spring Boot, PostgreSQL, Docker
-- **Features**: Multi-tenant support, Role-based access control, Token management
-- **Security**: Implemented industry-standard security practices
+### 📊 **Data Processing Pipeline**
+ETL pipeline for processing large datasets
+- **Tech Stack**: Python, Pandas, Celery, MongoDB
+- **Features**: Batch processing, Error handling, Data transformation
+- **Scale**: Processes 100K+ records daily
 - [Repository](link-to-repo)
+
+---
+
+## 💡 Learning System Architecture
+
+Currently expanding my knowledge in system design and architecture to build more scalable and maintainable applications. Learning about:
+
+- Microservices patterns and design
+- Database scaling strategies
+- Caching and performance optimization
+- Load balancing and distributed systems
+- API design best practices
 
 ---
 
@@ -103,52 +91,44 @@ Centralized authentication service with JWT and OAuth2 support
 
 <div align="center">
   
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
 ---
 
-## 🌟 System Architecture Learning Journey
+## 🐍 Python Libraries I Love
 
-### 📅 **2024 Learning Milestones**
-- ✅ Completed AWS Solutions Architect Associate
-- ✅ Built first microservices application
-- ✅ Implemented event-driven architecture
-- 🔄 Currently studying distributed system patterns
-- 📝 Working on system design case studies
-- 🎯 Next: Kubernetes orchestration and service mesh
-
-### 📝 **Technical Blog Posts**
-- [Building Resilient Microservices with Circuit Breakers](blog-link)
-- [Database Scaling Strategies: When to Shard](blog-link)
-- [Event-Driven Architecture: Lessons Learned](blog-link)
+**Web Frameworks**: Django, FastAPI, Flask  
+**Database**: SQLAlchemy, Django ORM, Tortoise ORM  
+**Testing**: Pytest, Unittest, Factory Boy  
+**Async**: AsyncIO, Celery, RQ  
+**Data**: Pandas, NumPy, Requests  
+**Deployment**: Gunicorn, uWSGI, Docker
 
 ---
 
 ## 🤝 Let's Connect!
 
 I'm always interested in discussing:
-- Backend development best practices
-- System architecture and design patterns
-- Cloud-native technologies
-- Performance optimization techniques
-- Career growth in software architecture
+- Python development best practices
+- Backend architecture and design
+- API development and optimization
+- Database design and performance
 
-**Reach out if you want to:**
-- Collaborate on interesting projects
-- Discuss system design challenges
-- Share learning resources
-- Network with fellow developers
+**Open to:**
+- Collaboration on Python projects
+- Code reviews and feedback
+- Sharing knowledge and learning together
 
 ---
 
 <div align="center">
 
-### "The best way to learn system architecture is by building systems" 🏗️
+### "Clean code always looks like it was written by someone who cares" 🐍
 
-*Thanks for visiting my profile! Don't forget to ⭐ repositories you find interesting!*
+*Thanks for visiting! Feel free to explore my repositories and don't forget to ⭐ the ones you find useful!*
 
 </div>
