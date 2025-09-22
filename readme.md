@@ -48,33 +48,6 @@ I'm a passionate Python backend developer focused on creating efficient, maintai
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
----
-
-## 🏗️ Featured Projects
-
-### 🚀 **RESTful API with Django REST Framework**
-A comprehensive API for a task management application
-- **Tech Stack**: Django, DRF, PostgreSQL, Redis, Celery
-- **Features**: User authentication, CRUD operations, Background tasks, Caching
-- **Testing**: 95% test coverage with pytest
-- [Repository](link-to-repo) | [API Documentation](link-to-docs)
-
-### ⚡ **High-Performance FastAPI Service**
-A fast and efficient API service for data processing
-- **Tech Stack**: FastAPI, SQLAlchemy, PostgreSQL, Docker
-- **Features**: Async operations, Data validation with Pydantic, Auto-generated docs
-- **Performance**: Sub-100ms response times
-- [Repository](link-to-repo)
-
-### 📊 **Data Processing Pipeline**
-ETL pipeline for processing large datasets
-- **Tech Stack**: Python, Pandas, Celery, MongoDB
-- **Features**: Batch processing, Error handling, Data transformation
-- **Scale**: Processes 100K+ records daily
-- [Repository](link-to-repo)
-
----
-
 ## 💡 Learning System Architecture
 
 Currently expanding my knowledge in system design and architecture to build more scalable and maintainable applications. Learning about:
